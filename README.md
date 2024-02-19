@@ -1,1 +1,1 @@
-Mostly FrontEnd project using React
+Frontend (mostly) project using React
